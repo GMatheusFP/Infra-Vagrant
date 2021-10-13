@@ -32,4 +32,13 @@ User: carshop \
 Password: carshop 
 
 
-## How do I connect to the database?
+## How is database?
+Schema: \
+<img src="./database-images/1.png" alt="Schema"/> \
+Brands Table: \
+<img src="./database-images/2.png" alt="Schema"/> \
+Cars Table: \
+<img src="./database-images/3.png" alt="Schema"/> \
+Sales Table: \
+<img src="./database-images/4.png" alt="Schema"/> \
+
