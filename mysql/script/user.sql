@@ -1,0 +1,9 @@
+CREATE USER IF NOT EXISTS 'carshop'@'%' IDENTIFIED BY 'carshop';
+
+CREATE DATABASE IF NOT EXISTS carshop;
+
+ALTER DATABASE carshop
+  DEFAULT CHARACTER SET utf8
+  DEFAULT COLLATE utf8_general_ci;
+
+GRANT ALL PRIVILEGES ON carshop.* TO 'carshop'@'%' IDENTIFIED BY 'carshop';
