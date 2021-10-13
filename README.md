@@ -10,7 +10,7 @@ Team: Gian Matheus and Estevão Fekete
 3 - use "vagrant up" command
 
 ```bash
-git clone https://github.com/GMatheusFP/Infra-Vagrant.git 
+git clone https://github.com/GMatheusFP/infra-vagrant.git 
 ```
 
 ```bash
@@ -19,6 +19,7 @@ Vagrant 2.2.18 # Response example (if your bash not return something like this, 
 ```
 
 ```bash
+cd infra-vagrant
 vagrant up
 ```
 
